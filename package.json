@@ -11,13 +11,6 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "devDependencies": {
-    "@babel/cli": "^7.21.0",
-    "@babel/core": "^7.21.4",
-    "@babel/node": "^7.20.7",
-    "@babel/preset-env": "^7.21.4",
-    "nodemon": "^2.0.22"
-  },
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "bcrypt": "^5.1.0",
